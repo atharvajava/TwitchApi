@@ -1,0 +1,14 @@
+.MyFont{
+  font-family: 'Quicksand', regular;
+}
+body{
+  font-family: 'Quicksand', regular;
+}
+#header{
+  background-color: #99ccff;
+}
+img{
+  border-radius:20px;
+  width:50px;
+  height:50px;
+}
